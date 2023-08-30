@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import Segment
+@testable import SegmentSwift
 
 final class MemoryLeak_Tests: XCTestCase {
 

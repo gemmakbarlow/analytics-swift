@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import Segment
+import SegmentSwift
 
 @objc(SEGTestDestination)
 public class ObjCTestDestination: NSObject, ObjCPlugin, ObjCPluginShim {

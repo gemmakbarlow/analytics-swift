@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import Segment
+@testable import SegmentSwift
 
 class KeyPath_Tests: XCTestCase {
     let baseDictionary: [String: Any] = [

@@ -6,12 +6,12 @@
 //
 
 import XCTest
-@testable import Segment
+@testable import SegmentSwift
 
 class DummyFlushPolicy: FlushPolicy {
-    var analytics: Segment.Analytics?
+    var analytics: SegmentSwift.Analytics?
     
-    func configure(analytics: Segment.Analytics) {
+    func configure(analytics: SegmentSwift.Analytics) {
         
     }
     
@@ -19,7 +19,7 @@ class DummyFlushPolicy: FlushPolicy {
         return true
     }
     
-    func updateState(event: Segment.RawEvent) {
+    func updateState(event: SegmentSwift.RawEvent) {
         
     }
     

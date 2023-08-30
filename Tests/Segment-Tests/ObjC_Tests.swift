@@ -8,7 +8,7 @@
 #if !os(Linux)
 
 import XCTest
-@testable import Segment
+@testable import SegmentSwift
 
 class ObjC_Tests: XCTestCase {
 

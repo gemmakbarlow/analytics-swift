@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import Segment
+import SegmentSwift
 
 struct Article {
     let title: String

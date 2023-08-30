@@ -30,7 +30,7 @@
 // SOFTWARE.
 
 import Foundation
-import Segment
+import SegmentSwift
 
 class InjectTraits: Plugin {
     let type = PluginType.enrichment

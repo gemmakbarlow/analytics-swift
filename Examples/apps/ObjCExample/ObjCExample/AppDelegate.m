@@ -8,8 +8,8 @@
 #import "AppDelegate.h"
 #import "ObjCExample-Swift.h"
 
-@import Segment;
-@import SegmentMixpanel;
+@import SegmentSwift;
+@import SegmentSwiftMixpanel;
 
 @interface AppDelegate ()
 

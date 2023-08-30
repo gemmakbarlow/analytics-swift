@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import Segment
+import SegmentSwift
 import UIKit
 
 struct UserTraits: Codable {

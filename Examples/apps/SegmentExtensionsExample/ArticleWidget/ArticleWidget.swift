@@ -5,7 +5,7 @@
 //  Created by Alan Charles on 8/15/21.
 //
 
-import Segment
+import SegmentSwift
 import WidgetKit
 import SwiftUI
 

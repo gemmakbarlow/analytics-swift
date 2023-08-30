@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import Segment
+@testable import SegmentSwift
 
 struct Personal: Codable {
     let preferences: [String]

@@ -7,7 +7,7 @@
 
 import Foundation
 import XCTest
-@testable import Segment
+@testable import SegmentSwift
 
 extension UUID{
     public func asUInt8Array() -> [UInt8]{

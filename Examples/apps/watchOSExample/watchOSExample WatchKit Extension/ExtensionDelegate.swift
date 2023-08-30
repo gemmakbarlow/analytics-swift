@@ -6,7 +6,7 @@
 //
 
 import WatchKit
-import Segment
+import SegmentSwift
 
 class ExtensionDelegate: NSObject, WKExtensionDelegate {
     var analytics: Analytics? = nil

@@ -35,7 +35,7 @@
 // SOFTWARE.
 
 import Foundation
-import Segment
+import SegmentSwift
 import Flurry
 
 /**

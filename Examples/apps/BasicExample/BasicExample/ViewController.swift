@@ -6,7 +6,7 @@
 //
 
 import UIKit
-import Segment
+import SegmentSwift
 
 class ViewController: UIViewController {
     var analytics: Analytics? {

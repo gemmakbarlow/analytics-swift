@@ -31,7 +31,7 @@
 
 import Foundation
 import UIKit
-import Segment
+import SegmentSwift
 
 class QueryAlertController: UIAlertController {
     // we already conform to UIKitScreenTrackable so override

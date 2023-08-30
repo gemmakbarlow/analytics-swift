@@ -1,6 +1,6 @@
 import XCTest
 
-import Segment_Tests
+import SegmentSwift_Tests
 
 var tests = [XCTestCaseEntry]()
 tests += Segment_SwiftTests.allTests()

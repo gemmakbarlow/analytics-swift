@@ -6,12 +6,12 @@
 //
 
 import UIKit
-import Segment
-import SegmentAmplitude
-import SegmentAppsFlyer
-import SegmentFacebook
-import SegmentFirebase
-import SegmentMixpanel
+import SegmentSwift
+import SegmentSwiftAmplitude
+import SegmentSwiftAppsFlyer
+import SegmentSwiftFacebook
+import SegmentSwiftFirebase
+import SegmentSwiftMixpanel
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {

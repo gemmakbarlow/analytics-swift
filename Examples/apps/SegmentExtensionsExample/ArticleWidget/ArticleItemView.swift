@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-import Segment
+import SegmentSwift
 
 struct ArticleItemView: View {
     var article : Article

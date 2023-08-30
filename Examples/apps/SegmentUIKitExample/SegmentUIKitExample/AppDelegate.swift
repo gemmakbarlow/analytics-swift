@@ -6,7 +6,7 @@
 //
 
 import UIKit
-import Segment
+import SegmentSwift
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {

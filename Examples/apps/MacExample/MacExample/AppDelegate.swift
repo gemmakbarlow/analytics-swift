@@ -6,7 +6,7 @@
 //
 
 import Cocoa
-import Segment
+import SegmentSwift
 
 @main
 class AppDelegate: NSObject, NSApplicationDelegate {

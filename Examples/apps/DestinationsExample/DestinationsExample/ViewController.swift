@@ -6,7 +6,7 @@
 //
 
 import UIKit
-import Segment
+import SegmentSwift
 import AppsFlyerLib
 
 enum SpecEvent: Int {

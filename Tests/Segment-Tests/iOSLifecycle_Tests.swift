@@ -1,5 +1,5 @@
 import XCTest
-@testable import Segment
+@testable import SegmentSwift
 
 #if os(iOS)
 final class iOSLifecycle_Tests: XCTestCase {
